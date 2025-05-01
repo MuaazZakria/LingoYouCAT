@@ -1,0 +1,24 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in model
+
+# ignore .env
+.env
+.env.prod
+.env.local
+dont_push.py
+
+# ignore public/uploads
+public/uploads/
+
+.idea/
+# ignore tmx files
+*.tmx
+
+# ignore json files
+*.json
+
+# ignore pycache
+__pycache__/
+node_modules
